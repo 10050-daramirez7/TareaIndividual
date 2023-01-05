@@ -1,0 +1,36 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.7)),url("https://www.zdnet.com/a/img/resize/fcd2a4c988083c46b061b512e611ed567301c23b/2021/07/29/5c101d06-b7de-4f40-8110-00b38582c8ad/product-130298-product-shots1.jpg?auto=webp&fit=crop&height=675&width=1200");
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.logo {
+    height: 100px;
+    margin-top: 10px;
+}
+.text-description {
+    letter-spacing: 4px;
+    font-family: sans-serif;    
+}
+
+.form-control {
+    background: transparent !important;
+    color: #fff !important;
+}
+
+a .fab {
+    color: #ffc;
+    font-size: 30px;
+    margin: 0 10px;
+}
+
+#text{
+    font-size: 60px;
+}
